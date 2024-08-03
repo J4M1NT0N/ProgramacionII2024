@@ -85,7 +85,7 @@ public class Main {
                 pizzaSeleccionada = pizzaPepperoni;
                 break;
             default:
-                System.out.println("Opción no válida, no tenmos ese tipo de pizza :(51");
+                System.out.println("Opción no válida, no tenmos ese tipo de pizza :(");
                 break;
         }
 
